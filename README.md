@@ -1,4 +1,4 @@
-# Wordpress Template - simple
+# Wordpress Theme - simple
 
 A very simple, clean WordPress theme designed for lightweight and modern websites.
 
