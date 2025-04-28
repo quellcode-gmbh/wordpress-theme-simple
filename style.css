@@ -1,0 +1,38 @@
+/*
+Theme Name: Wordpress Template - simple
+Theme URI: https://www.quellcode.gmbh/
+Author: Quellcode 360 GmbH
+Author URI: https://www.quellcode.gmbh/
+Description: A very simple, clean WordPress theme created by Quellcode 360 GmbH for lightweight and modern websites.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wordpress-template-simple
+*/
+
+/* Basic Reset and Style */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+a {
+    color: #0073aa;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+header, footer {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+}
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 1em;
+}
